@@ -1,0 +1,95 @@
+{
+    "source": "oracle.com/cloud/price-list.html",
+    "region": "us-ashburn-1",
+    "asOf": "March 2026",
+    "cards": [
+        {
+            "label": "Compute",
+            "service": "OCI Compute (VM.Standard)",
+            "priceItems": [
+                { "label": "E4.Flex OCPU",       "value": "$0.025/OCPU-hr" },
+                { "label": "E4.Flex Memory",     "value": "$0.0015/GB-hr"  },
+                { "label": "A1 Flex (Arm) OCPU", "value": "$0.01/OCPU-hr"  }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/compute/pricing.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Storage",
+            "service": "OCI Object / Block Storage",
+            "priceItems": [
+                { "label": "Object Storage Standard",   "value": "$0.0244/GB-mo" },
+                { "label": "Object Storage Infrequent", "value": "$0.0102/GB-mo" },
+                { "label": "Block Volume (Balanced)",   "value": "$0.0255/GB-mo" }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/storage/pricing.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Database",
+            "service": "Autonomous Database",
+            "priceItems": [
+                { "label": "Serverless ECPU",         "value": "$0.054/hr"      },
+                { "label": "Base DB (E4, 1 OCPU)",    "value": "$0.025/OCPU-hr" },
+                { "label": "MySQL HeatWave (1 OCPU)", "value": "$0.044/OCPU-hr" }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/database/pricing.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Networking",
+            "service": "OCI Data Transfer",
+            "priceItems": [
+                { "label": "First 10 TB/mo out", "value": "$0.0085/GB" },
+                { "label": "10–50 TB/mo out",    "value": "$0.0051/GB" },
+                { "label": "Inbound",            "value": "Free"        }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/price-list.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Machine Learning",
+            "service": "OCI Data Science",
+            "priceItems": [
+                { "label": "VM.Standard.E4 (1 OCPU)", "value": "$0.025/OCPU-hr" },
+                { "label": "VM.GPU2.1 (1 GPU P100)",  "value": "$1.275/hr"       },
+                { "label": "AI Services (per call)",  "value": "from $0.002"     }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/price-list.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Serverless",
+            "service": "OCI Functions",
+            "priceItems": [
+                { "label": "Per 1M invocations", "value": "$0.145"          },
+                { "label": "Per GB-second",      "value": "$0.0000149"      },
+                { "label": "Free tier/mo",       "value": "2M invocations"  }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/price-list.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Containers",
+            "service": "OCI Container Engine (OKE)",
+            "priceItems": [
+                { "label": "Cluster Management",       "value": "Free"            },
+                { "label": "Container Instances OCPU", "value": "$0.0025/OCPU-hr" },
+                { "label": "Worker Nodes",             "value": "Compute pricing" }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/price-list.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        },
+        {
+            "label": "Security",
+            "service": "OCI WAF & Security",
+            "priceItems": [
+                { "label": "WAF (per 10K requests)", "value": "$0.006"    },
+                { "label": "DDoS Protection",        "value": "Included"  },
+                { "label": "Cloud Guard (basic)",    "value": "Free"      }
+            ],
+            "pricingUrl": "https://www.oracle.com/cloud/price-list.html",
+            "note": "us-ashburn-1 | oracle.com (static)"
+        }
+    ]
+}

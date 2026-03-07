@@ -1,0 +1,95 @@
+{
+    "source": "alibabacloud.com/pricing",
+    "region": "US West (Silicon Valley)",
+    "asOf": "March 2026",
+    "cards": [
+        {
+            "label": "Compute",
+            "service": "Alibaba Cloud ECS",
+            "priceItems": [
+                { "label": "ecs.c6.large (2 vCPU, 4 GB)",  "value": "$0.077/hr" },
+                { "label": "ecs.g6.large (2 vCPU, 8 GB)",  "value": "$0.096/hr" },
+                { "label": "ecs.r6.large (2 vCPU, 16 GB)", "value": "$0.128/hr" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/ecs/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Storage",
+            "service": "Alibaba Cloud OSS",
+            "priceItems": [
+                { "label": "Standard",          "value": "$0.020/GB-mo" },
+                { "label": "Infrequent Access", "value": "$0.015/GB-mo" },
+                { "label": "Archive",           "value": "$0.006/GB-mo" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/oss/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Database",
+            "service": "ApsaraDB RDS (MySQL)",
+            "priceItems": [
+                { "label": "mysql.n1.micro.1 (1 vCPU, 1 GB)",  "value": "$0.017/hr" },
+                { "label": "mysql.n2.small.1 (1 vCPU, 2 GB)",  "value": "$0.034/hr" },
+                { "label": "mysql.n2.medium.1 (2 vCPU, 4 GB)", "value": "$0.068/hr" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/apsaradb-for-rds/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Networking",
+            "service": "Alibaba Cloud CDN / EIP",
+            "priceItems": [
+                { "label": "First 1 GB/mo out", "value": "Free"      },
+                { "label": "1 GB–5 TB/mo out",  "value": "$0.087/GB" },
+                { "label": "Inbound",            "value": "Free"      }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Machine Learning",
+            "service": "Alibaba Cloud PAI",
+            "priceItems": [
+                { "label": "Notebook (4 vCPU, 16 GB)", "value": "$0.120/hr" },
+                { "label": "GPU Training (Tesla T4)",   "value": "$1.500/hr" },
+                { "label": "CPU Training (32 vCPU)",    "value": "$0.500/hr" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/machine-learning/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Serverless",
+            "service": "Alibaba Function Compute",
+            "priceItems": [
+                { "label": "Per 1M invocations", "value": "$0.20"          },
+                { "label": "Per GB-second",      "value": "$0.0000167"     },
+                { "label": "Free tier/mo",       "value": "1M invocations" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/function-compute/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Containers",
+            "service": "Alibaba ACK",
+            "priceItems": [
+                { "label": "Cluster Management",        "value": "Free"        },
+                { "label": "Serverless K8s (ASK) vCPU", "value": "$0.053/hr"  },
+                { "label": "Worker Nodes",              "value": "ECS pricing" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/kubernetes/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        },
+        {
+            "label": "Security",
+            "service": "Alibaba WAF & Anti-DDoS",
+            "priceItems": [
+                { "label": "WAF Pro Edition",  "value": "$143/mo"   },
+                { "label": "Anti-DDoS Basic",  "value": "Free"      },
+                { "label": "SSL Certificate",  "value": "from Free" }
+            ],
+            "pricingUrl": "https://www.alibabacloud.com/product/waf/pricing",
+            "note": "US West | alibabacloud.com (static)"
+        }
+    ]
+}

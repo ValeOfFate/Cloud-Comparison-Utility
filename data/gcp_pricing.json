@@ -1,0 +1,95 @@
+{
+    "source": "cloud.google.com/pricing",
+    "region": "us-central1",
+    "asOf": "March 2026",
+    "cards": [
+        {
+            "label": "Compute",
+            "service": "Google Compute Engine",
+            "priceItems": [
+                { "label": "n2-standard-2 (2 vCPU)", "value": "$0.0971/hr"  },
+                { "label": "n2-standard-4 (4 vCPU)", "value": "$0.1942/hr"  },
+                { "label": "c2-standard-4 (Compute)", "value": "$0.2088/hr" }
+            ],
+            "pricingUrl": "https://cloud.google.com/compute/vm-instance-pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Storage",
+            "service": "Google Cloud Storage",
+            "priceItems": [
+                { "label": "Standard", "value": "$0.020/GB-mo" },
+                { "label": "Nearline", "value": "$0.010/GB-mo" },
+                { "label": "Coldline", "value": "$0.004/GB-mo" }
+            ],
+            "pricingUrl": "https://cloud.google.com/storage/pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Database",
+            "service": "Cloud SQL (MySQL)",
+            "priceItems": [
+                { "label": "db-n1-standard-2",     "value": "$0.1925/hr" },
+                { "label": "db-n1-standard-4",     "value": "$0.3850/hr" },
+                { "label": "Cloud Spanner (1 node)", "value": "$0.90/hr" }
+            ],
+            "pricingUrl": "https://cloud.google.com/sql/pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Networking",
+            "service": "GCP Egress",
+            "priceItems": [
+                { "label": "First 1 TB/mo out", "value": "$0.085/GB" },
+                { "label": "1–10 TB/mo out",    "value": "$0.065/GB" },
+                { "label": "Inbound",           "value": "Free"       }
+            ],
+            "pricingUrl": "https://cloud.google.com/vpc/network-pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Machine Learning",
+            "service": "Vertex AI",
+            "priceItems": [
+                { "label": "n1-standard-4 Training", "value": "$0.190/hr" },
+                { "label": "NVIDIA T4 GPU",           "value": "$0.350/hr" },
+                { "label": "TPU v3 (8 cores)",        "value": "$8.000/hr" }
+            ],
+            "pricingUrl": "https://cloud.google.com/vertex-ai/pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Serverless",
+            "service": "Cloud Functions / Cloud Run",
+            "priceItems": [
+                { "label": "Per 1M invocations", "value": "$0.40"      },
+                { "label": "Per vCPU-second",    "value": "$0.0000240" },
+                { "label": "Per GB-second",      "value": "$0.0000025" }
+            ],
+            "pricingUrl": "https://cloud.google.com/functions/pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Containers",
+            "service": "Google Kubernetes Engine",
+            "priceItems": [
+                { "label": "Standard Cluster",  "value": "$0.100/hr"       },
+                { "label": "Autopilot vCPU",    "value": "$0.0445/vCPU-hr" },
+                { "label": "Autopilot Memory",  "value": "$0.00488/GB-hr"  }
+            ],
+            "pricingUrl": "https://cloud.google.com/kubernetes-engine/pricing",
+            "note": "us-central1 | cloud.google.com (static)"
+        },
+        {
+            "label": "Security",
+            "service": "Cloud Armor",
+            "priceItems": [
+                { "label": "Security Policy",  "value": "$0.75/mo"      },
+                { "label": "Rule",             "value": "$0.75/rule-mo" },
+                { "label": "Per 10K requests", "value": "$0.001"        }
+            ],
+            "pricingUrl": "https://cloud.google.com/armor/pricing",
+            "note": "Global | cloud.google.com (static)"
+        }
+    ]
+}

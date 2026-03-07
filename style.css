@@ -1,0 +1,206 @@
+/* General Formatting */
+body {
+    background-color: #e8e8e8;
+    color: #222;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+    margin-bottom: 0;
+}
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+.github-buttons {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+/* Tab bar */
+.tab-bar {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #aaa;
+    padding-bottom: 0;
+}
+.tab-btn {
+    padding: 8px 20px;
+    background-color: #d0d0d0;
+    border: 1px solid #aaa;
+    border-bottom: none;
+    cursor: pointer;
+    font-size: 14px;
+    color: #444;
+    border-radius: 4px 4px 0 0;
+}
+.tab-btn:hover {
+    background-color: #c0c0c0;
+}
+.tab-btn.active {
+    background-color: #f2f2f2;
+    color: #111;
+    font-weight: bold;
+    border-color: #aaa;
+}
+
+/* Tab Panes */
+.tab-panel {
+    display: none;
+}
+.tab-panel.active {
+    display: block;
+}
+
+/* Comparison Table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+th {
+    background-color: #c8c8c8;
+    color: #111;
+    padding: 10px 14px;
+    border: 1px solid #aaa;
+}
+td {
+    padding: 8px 14px;
+    border: 1px solid #bbb;
+}
+tr:nth-child(even) td {
+    background-color: #e2e2e2;
+}
+tr:nth-child(odd) td {
+    background-color: #f2f2f2;
+}
+tr:hover td {
+    background-color: #d4d4d4;
+}
+td.section-divider {
+    background-color: #b0b8c4;
+    color: #111;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 6px 14px;
+    border: 1px solid #96a0aa;
+}
+
+/* Pricing Tab */
+.pricing-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+.pricing-controls label {
+    font-weight: bold;
+    font-size: 14px;
+}
+.pricing-controls select {
+    padding: 7px 12px;
+    font-size: 14px;
+    background-color: #f2f2f2;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    color: #222;
+    cursor: pointer;
+}
+.offer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+}
+.offer-card {
+    background-color: #f2f2f2;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    padding: 16px;
+    min-height: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    font-size: 13px;
+    text-align: left;
+}
+.offer-card .card-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #aaa;
+    margin-bottom: 2px;
+}
+.card-service {
+    font-weight: bold;
+    font-size: 13px;
+    color: #222;
+}
+.price-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 6px;
+}
+.price-row {
+    display: flex;
+    flex-direction: column;
+    border-left: 2px solid #ccc;
+    padding-left: 7px;
+}
+.price-lbl {
+    font-size: 10px;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+.price-val {
+    font-size: 12px;
+    font-weight: bold;
+    color: #111;
+}
+.card-note {
+    font-size: 10px;
+    color: #bbb;
+    margin-top: auto;
+    padding-top: 6px;
+}
+.card-link {
+    font-size: 11px;
+    color: #0056b3;
+    text-decoration: none;
+}
+.card-link:hover {
+    text-decoration: underline;
+}
+.card-loading {
+    font-size: 12px;
+    color: #999;
+    font-style: italic;
+    margin-top: 8px;
+}
+.card-error {
+    font-size: 11px;
+    color: #c33;
+    margin-top: 4px;
+}
+.pricing-disclaimer {
+    background-color: #fdf6e3;
+    border: 1px solid #e6d9b0;
+    border-radius: 4px;
+    padding: 8px 14px;
+    font-size: 12px;
+    color: #7a6a30;
+    margin-bottom: 20px;
+}

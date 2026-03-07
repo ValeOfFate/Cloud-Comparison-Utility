@@ -1,0 +1,2214 @@
+Cloud Service:
+
+  # ── COMPUTE ────────────────────────────────────────────────────────────────
+
+  _section_compute:
+    _section: "Compute"
+
+  Virtual Compute:
+    aws:
+      name: Amazon EC2
+      link: https://aws.amazon.com/ec2/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Serverless Compute:
+    aws:
+      name: AWS Lambda
+      link: https://aws.amazon.com/lambda/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Full-Stack Platform / PaaS:
+    aws:
+      name: AWS Elastic Beanstalk
+      link: https://aws.amazon.com/elasticbeanstalk/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Batch Processing:
+    aws:
+      name: AWS Batch
+      link: https://aws.amazon.com/batch/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── CONTAINERS ─────────────────────────────────────────────────────────────
+
+  _section_containers:
+    _section: "Containers"
+
+  Container Orchestration:
+    aws:
+      name: Amazon Elastic Kubernetes Service (EKS)
+      link: https://aws.amazon.com/eks/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Managed Container Service:
+    aws:
+      name: Amazon Elastic Container Service (ECS)
+      link: https://aws.amazon.com/ecs/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Container Registry:
+    aws:
+      name: Amazon Elastic Container Registry (ECR)
+      link: https://aws.amazon.com/ecr/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── STORAGE ────────────────────────────────────────────────────────────────
+
+  _section_storage:
+    _section: "Storage"
+
+  Object Storage:
+    aws:
+      name: Amazon S3
+      link: https://aws.amazon.com/s3/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Block Storage:
+    aws:
+      name: Amazon Elastic Block Store (EBS)
+      link: https://aws.amazon.com/ebs/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  File Storage:
+    aws:
+      name: Amazon Elastic File System (EFS)
+      link: https://aws.amazon.com/efs/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Archive:
+    aws:
+      name: Amazon S3 Glacier
+      link: https://aws.amazon.com/s3/storage-classes/glacier/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── DATABASE ───────────────────────────────────────────────────────────────
+
+  _section_database:
+    _section: "Database"
+
+  SQL Database:
+    aws:
+      services:
+        - name: Amazon RDS
+          link: https://aws.amazon.com/rds/
+        - name: Amazon Aurora
+          link: https://aws.amazon.com/rds/aurora/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  NoSQL Database:
+    aws:
+      name: Amazon DynamoDB
+      link: https://aws.amazon.com/dynamodb/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  In-Memory Cache:
+    aws:
+      services:
+        - name: Amazon ElastiCache
+          link: https://aws.amazon.com/elasticache/
+        - name: Amazon MemoryDB
+          link: https://aws.amazon.com/memorydb/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Graph Database:
+    aws:
+      name: Amazon Neptune
+      link: https://aws.amazon.com/neptune/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Time Series Database:
+    aws:
+      name: Amazon Timestream
+      link: https://aws.amazon.com/timestream/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Document Database:
+    aws:
+      name: Amazon DocumentDB
+      link: https://aws.amazon.com/documentdb/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Wide-Column / Keyspace Database:
+    aws:
+      name: Amazon Keyspaces
+      link: https://aws.amazon.com/keyspaces/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── NETWORKING ─────────────────────────────────────────────────────────────
+
+  _section_networking:
+    _section: "Networking"
+
+  Virtual Networking:
+    aws:
+      name: Amazon VPC
+      link: https://aws.amazon.com/vpc/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Load Balancing:
+    aws:
+      name: Elastic Load Balancing
+      link: https://aws.amazon.com/elasticloadbalancing/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  DNS Management:
+    aws:
+      name: Amazon Route 53
+      link: https://aws.amazon.com/route53/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Content Delivery (CDN):
+    aws:
+      name: Amazon CloudFront
+      link: https://aws.amazon.com/cloudfront/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  API Gateway:
+    aws:
+      name: Amazon API Gateway
+      link: https://aws.amazon.com/api-gateway/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── MESSAGING & INTEGRATION ────────────────────────────────────────────────
+
+  _section_messaging:
+    _section: "Messaging & Integration"
+
+  Message Queue:
+    aws:
+      name: Amazon Simple Queue Service (SQS)
+      link: https://aws.amazon.com/sqs/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Pub/Sub Messaging:
+    aws:
+      name: Amazon Simple Notification Service (SNS)
+      link: https://aws.amazon.com/sns/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Event Streaming:
+    aws:
+      name: Amazon Kinesis Data Streams
+      link: https://aws.amazon.com/kinesis/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Managed Kafka:
+    aws:
+      name: Amazon Managed Streaming for Apache Kafka (MSK)
+      link: https://aws.amazon.com/msk/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Workflow Orchestration:
+    aws:
+      name: AWS Step Functions
+      link: https://aws.amazon.com/step-functions/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Managed Message Broker:
+    aws:
+      name: Amazon MQ
+      link: https://aws.amazon.com/amazon-mq/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── ANALYTICS ─────────────────────────────────────────────────────────────
+
+  _section_analytics:
+    _section: "Analytics"
+
+  Data Lake / Warehouse:
+    aws:
+      services:
+        - name: Amazon Redshift
+          link: https://aws.amazon.com/redshift/
+        - name: Amazon S3 Data Lake
+          link: https://aws.amazon.com/s3/
+        - name: Amazon S3 Tables
+          link: https://aws.amazon.com/s3/features/tables/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Lakehouse Architecture:
+    aws:
+      name: AWS Lake Formation
+      link: https://aws.amazon.com/lake-formation/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Data Processing:
+    aws:
+      services:
+        - name: Amazon Athena
+          link: https://aws.amazon.com/athena/
+        - name: AWS Glue
+          link: https://aws.amazon.com/glue/
+        - name: Amazon EMR
+          link: https://aws.amazon.com/emr/
+        - name: Amazon MWAA
+          link: https://aws.amazon.com/managed-workflows-for-apache-airflow/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Search Analytics:
+    aws:
+      name: Amazon OpenSearch Service
+      link: https://aws.amazon.com/opensearch-service/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  BI / Data Visualization:
+    aws:
+      name: Amazon QuickSight
+      link: https://aws.amazon.com/quick/quicksight/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── AI / MACHINE LEARNING ─────────────────────────────────────────────────
+
+  _section_aiml:
+    _section: "AI / Machine Learning"
+
+  ML Platform:
+    aws:
+      name: Amazon SageMaker
+      link: https://aws.amazon.com/sagemaker/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Generative AI Platform:
+    aws:
+      name: Amazon Bedrock
+      link: https://aws.amazon.com/bedrock/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  NLP / Text Analytics:
+    aws:
+      name: Amazon Comprehend
+      link: https://aws.amazon.com/comprehend/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Image / Video Recognition:
+    aws:
+      name: Amazon Rekognition
+      link: https://aws.amazon.com/rekognition/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Speech to Text:
+    aws:
+      name: Amazon Transcribe
+      link: https://aws.amazon.com/transcribe/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Text to Speech:
+    aws:
+      name: Amazon Polly
+      link: https://aws.amazon.com/polly/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Translation:
+    aws:
+      name: Amazon Translate
+      link: https://aws.amazon.com/translate/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Forecasting / Predictions:
+    aws:
+      name: Amazon Forecast
+      link: https://aws.amazon.com/forecast/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Recommendation Engine:
+    aws:
+      name: Amazon Personalize
+      link: https://aws.amazon.com/personalize/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Conversational AI / Chatbot:
+    aws:
+      name: Amazon Lex
+      link: https://aws.amazon.com/lex/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Document / OCR Extraction:
+    aws:
+      name: Amazon Textract
+      link: https://aws.amazon.com/textract/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── SECURITY & IDENTITY ───────────────────────────────────────────────────
+
+  _section_security:
+    _section: "Security & Identity"
+
+  Identity & Access Management:
+    aws:
+      name: AWS IAM
+      link: https://aws.amazon.com/iam/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Key Management:
+    aws:
+      name: AWS Key Management Service (KMS)
+      link: https://aws.amazon.com/kms/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Secrets Management:
+    aws:
+      name: AWS Secrets Manager
+      link: https://aws.amazon.com/secrets-manager/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  DDoS Protection:
+    aws:
+      name: AWS Shield
+      link: https://aws.amazon.com/shield/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Web Application Firewall:
+    aws:
+      name: AWS WAF
+      link: https://aws.amazon.com/waf/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── DEVOPS & MANAGEMENT ───────────────────────────────────────────────────
+
+  _section_devops:
+    _section: "DevOps & Management"
+
+  Monitoring & Observability:
+    aws:
+      name: Amazon CloudWatch
+      link: https://aws.amazon.com/cloudwatch/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Infrastructure as Code:
+    aws:
+      name: AWS CloudFormation
+      link: https://aws.amazon.com/cloudformation/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  CI/CD Pipeline:
+    aws:
+      name: AWS CodePipeline
+      link: https://aws.amazon.com/codepipeline/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Source Control:
+    aws:
+      name: AWS CodeCommit
+      link: https://aws.amazon.com/codecommit/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Cost Management:
+    aws:
+      name: AWS Cost Explorer
+      link: https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── IoT ───────────────────────────────────────────────────────────────────
+
+  _section_iot:
+    _section: "Internet of Things (IoT)"
+
+  IoT Core:
+    aws:
+      name: AWS IoT Core
+      link: https://aws.amazon.com/iot-core/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  IoT Device Management:
+    aws:
+      name: AWS IoT Device Management
+      link: https://aws.amazon.com/iot-device-management/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Edge Computing:
+    aws:
+      name: AWS Outposts
+      link: https://aws.amazon.com/outposts/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  # ── OTHER SERVICES ────────────────────────────────────────────────────────
+
+  _section_other:
+    _section: "Other Services"
+
+  Virtual Desktop:
+    aws:
+      name: Amazon WorkSpaces
+      link: https://aws.amazon.com/workspaces/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Email Service:
+    aws:
+      name: Amazon Simple Email Service (SES)
+      link: https://aws.amazon.com/ses/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP
+
+  Managed Blockchain:
+    aws:
+      name: Amazon Managed Blockchain
+      link: https://aws.amazon.com/managed-blockchain/
+    azure:
+      name: WIP
+      link: WIP
+    gcp:
+      name: WIP
+      link: WIP
+    alibaba:
+      name: WIP
+      link: WIP
+    oci:
+      name: WIP
+      link: WIP
+    ibm:
+      name: WIP
+      link: WIP
+    salesforce:
+      name: WIP
+      link: WIP
+    tencent:
+      name: WIP
+      link: WIP
+    huawei:
+      name: WIP
+      link: WIP
+    cisco:
+      name: WIP
+      link: WIP
+    redhat:
+      name: WIP
+      link: WIP

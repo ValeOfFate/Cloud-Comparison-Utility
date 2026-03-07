@@ -1,0 +1,65 @@
+{
+    "source": "aws.amazon.com pricing pages",
+    "region": "us-east-1",
+    "asOf": "March 2026",
+    "compute": {
+        "service": "Amazon EC2",
+        "priceItems": [
+            { "label": "t3.micro On-Demand",  "value": "$0.0104/hr" },
+            { "label": "t3.medium On-Demand", "value": "$0.0416/hr" },
+            { "label": "m5.xlarge On-Demand", "value": "$0.1920/hr" }
+        ],
+        "pricingUrl": "https://aws.amazon.com/ec2/pricing/on-demand/",
+        "note": "us-east-1 | aws.amazon.com (static)"
+    },
+    "storage": {
+        "service": "Amazon S3",
+        "priceItems": [
+            { "label": "Standard Storage", "value": "$0.023/GB-mo"  },
+            { "label": "Standard-IA",      "value": "$0.0125/GB-mo" },
+            { "label": "Glacier Instant",  "value": "$0.004/GB-mo"  }
+        ],
+        "pricingUrl": "https://aws.amazon.com/s3/pricing/",
+        "note": "us-east-1 | aws.amazon.com (static)"
+    },
+    "database": {
+        "service": "Amazon RDS (MySQL)",
+        "priceItems": [
+            { "label": "db.t3.micro", "value": "$0.017/hr" },
+            { "label": "db.t3.small", "value": "$0.034/hr" },
+            { "label": "db.m5.large", "value": "$0.171/hr" }
+        ],
+        "pricingUrl": "https://aws.amazon.com/rds/pricing/",
+        "note": "us-east-1 | aws.amazon.com (static)"
+    },
+    "networking": {
+        "service": "AWS Data Transfer",
+        "priceItems": [
+            { "label": "First 10 TB/mo out", "value": "$0.090/GB" },
+            { "label": "Next 40 TB/mo out",  "value": "$0.085/GB" },
+            { "label": "Inbound",            "value": "Free"       }
+        ],
+        "pricingUrl": "https://aws.amazon.com/ec2/pricing/on-demand/",
+        "note": "us-east-1 | aws.amazon.com (static)"
+    },
+    "ml": {
+        "service": "Amazon SageMaker",
+        "priceItems": [
+            { "label": "ml.t3.medium Notebook", "value": "$0.0582/hr" },
+            { "label": "ml.m5.xlarge Training", "value": "$0.230/hr"  },
+            { "label": "ml.g4dn.xlarge (GPU)",  "value": "$0.736/hr"  }
+        ],
+        "pricingUrl": "https://aws.amazon.com/sagemaker/pricing/",
+        "note": "us-east-1 | aws.amazon.com (static)"
+    },
+    "security": {
+        "service": "AWS WAF & Shield",
+        "priceItems": [
+            { "label": "WAF Web ACL",     "value": "$5.00/mo" },
+            { "label": "WAF Rule",        "value": "$1.00/mo" },
+            { "label": "Shield Standard", "value": "Free"     }
+        ],
+        "pricingUrl": "https://aws.amazon.com/waf/pricing/",
+        "note": "us-east-1 | aws.amazon.com (static)"
+    }
+}

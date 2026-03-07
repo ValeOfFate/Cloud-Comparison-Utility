@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cloud Comparison Agent</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+    </head>
+    <body>
+        <div class="page-header">
+            <h1>Cloud Comparison Agent</h1>
+            <div class="github-buttons">
+                <a class="github-button" href="https://github.com/ValeOfFate"
+                   data-show-count="true"
+                   aria-label="Follow @ValeOfFate on GitHub">Follow @ValeOfFate</a>
+                <a class="github-button" href="https://github.com/ValeOfFate/Cloud-Comparison-Utility"
+                   data-icon="octicon-star" data-show-count="true"
+                   aria-label="Star ValeOfFate/Cloud-Comparison-Utility on GitHub">Star</a>
+                <a class="github-button" href="https://github.com/ValeOfFate/Cloud-Comparison-Utility/fork"
+                   data-icon="octicon-repo-forked" data-show-count="true"
+                   aria-label="Fork ValeOfFate/Cloud-Comparison-Utility on GitHub">Fork</a>
+                <a class="github-button" href="https://github.com/ValeOfFate/Cloud-Comparison-Utility/issues"
+                   data-icon="octicon-issue-opened" data-show-count="true"
+                   aria-label="Issue ValeOfFate/Cloud-Comparison-Utility on GitHub">Issues</a>
+                <a class="github-button" href="https://github.com/ValeOfFate/Cloud-Comparison-Utility/discussions"
+                   data-icon="octicon-comment-discussion"
+                   aria-label="Discuss ValeOfFate/Cloud-Comparison-Utility on GitHub">Discuss</a>
+            </div>
+        </div>
+
+        <div class="tab-bar">
+            <button class="tab-btn active" onclick="switchTab('comparison')">Feature Comparison</button>
+            <button class="tab-btn" onclick="switchTab('pricing')">Pricing Offers</button>
+        </div>
+
+        <!-- Feature Comparison -->
+        <div id="tab-comparison" class="tab-panel active">
+            <table>
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Amazon Web Services (AWS)</th>
+                        <th>Microsoft Azure</th>
+                        <th>Google Cloud Platform (GCP)</th>
+                        <th>Oracle Cloud Infrastructure (OCI)</th>
+                        <th>Alibaba Cloud</th>
+                        <th>IBM Cloud</th>
+                        <th>SalesForce Cloud</th>
+                        <th>Tencent Cloud</th>
+                        <th>Huawei Cloud</th>
+                        <th>Cisco Cloud</th>
+                        <th>RedHat Cloud Solutions</th>
+                    </tr>
+                </thead>
+                <tbody id="cloud-tbody">
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Pricing Offers -->
+        <div id="tab-pricing" class="tab-panel">
+            <div class="pricing-controls">
+                <label for="csp-select">Cloud Provider:</label>
+                <select id="csp-select" onchange="updateOfferCards()">
+                    <option value="aws">Amazon Web Services (AWS)</option>
+                    <option value="azure">Microsoft Azure</option>
+                    <option value="gcp">Google Cloud Platform (GCP)</option>
+                    <option value="oci">Oracle Cloud Infrastructure (OCI)</option>
+                    <option value="alibaba">Alibaba Cloud</option>
+                </select>
+            </div>
+            <div class="pricing-disclaimer">
+                &#9432; Pricing shown is for reference only. Many values are static values pulled from provider pricing pages and may not reflect current rates, regional variations, reserved/spot discounts, or free-tier eligibility. Cards marked <em>Live</em> fetch data from the provider&#8217;s public pricing API on load.
+            </div>
+            <div class="offer-grid" id="offer-grid">
+                <!-- Generate Cards -->
+            </div>
+        </div>
+
+        <!-- Script Deployment -->
+        <script src="load_table.js"></script>
+        <script src="rendercards.js"></script>
+        <script src="aws_pricing.js"></script>
+        <script src="azure_pricing.js"></script>
+        <script src="gcp_pricing.js"></script>
+        <script src="oci_pricing.js"></script>
+        <script src="alibaba_pricing.js"></script>
+        <script>
+            function switchTab(tab) {
+                document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                document.getElementById('tab-' + tab).classList.add('active');
+                event.target.classList.add('active');
+            }
+
+            function updateOfferCards() {
+                const grid = document.getElementById('offer-grid');
+                const provider = document.getElementById('csp-select').value;
+                grid.innerHTML = '';
+
+                if (provider === 'aws') {
+                    renderAWSCards(grid);
+                    return;
+                }
+
+                if (provider === 'azure') {
+                    renderAzureCards(grid);
+                    return;
+                }
+
+                if (provider === 'gcp') {
+                    renderGCPCards(grid);
+                    return;
+                }
+
+                if (provider === 'oci') {
+                    renderOCICards(grid);
+                    return;
+                }
+
+                if (provider === 'alibaba') {
+                    renderAlibabaCards(grid);
+                    return;
+                }
+            }
+
+            // Initialize cards on load
+            updateOfferCards();
+        </script>
+    </body>
+</html>

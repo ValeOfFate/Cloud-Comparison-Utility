@@ -1,0 +1,95 @@
+{
+    "source": "azure.microsoft.com pricing pages",
+    "region": "East US",
+    "asOf": "March 2026",
+    "cards": [
+        {
+            "label": "Compute",
+            "service": "Azure Virtual Machines",
+            "priceItems": [
+                { "label": "B2s Linux",    "value": "$0.0416/hr" },
+                { "label": "D2s v3 Linux", "value": "$0.0960/hr" },
+                { "label": "D4s v3 Linux", "value": "$0.1920/hr" }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/",
+            "note": "East US | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Storage",
+            "service": "Azure Blob Storage",
+            "priceItems": [
+                { "label": "Hot LRS",     "value": "$0.0184/GB-mo"  },
+                { "label": "Cool LRS",    "value": "$0.0100/GB-mo"  },
+                { "label": "Archive LRS", "value": "$0.00099/GB-mo" }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/storage/blobs/",
+            "note": "East US | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Database",
+            "service": "Azure SQL Database",
+            "priceItems": [
+                { "label": "GP 2 vCores (Serverless)",  "value": "$0.000145/vCore-sec" },
+                { "label": "GP 2 vCores (Provisioned)", "value": "$0.3685/hr"          },
+                { "label": "BC 2 vCores (Provisioned)", "value": "$0.9045/hr"          }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/azure-sql-database/",
+            "note": "East US | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Networking",
+            "service": "Azure Bandwidth",
+            "priceItems": [
+                { "label": "First 100 GB/mo out", "value": "Free"      },
+                { "label": "100 GB–10 TB/mo out", "value": "$0.087/GB" },
+                { "label": "Inbound",             "value": "Free"       }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/bandwidth/",
+            "note": "Global | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Machine Learning",
+            "service": "Azure Machine Learning",
+            "priceItems": [
+                { "label": "Standard_DS2_v2",  "value": "$0.113/hr" },
+                { "label": "Standard_DS3_v2",  "value": "$0.225/hr" },
+                { "label": "Standard_NC6 GPU", "value": "$0.900/hr" }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/machine-learning/",
+            "note": "East US | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Serverless",
+            "service": "Azure Functions",
+            "priceItems": [
+                { "label": "Per 1M executions", "value": "$0.20"               },
+                { "label": "Per GB-second",     "value": "$0.000016"           },
+                { "label": "Free grant/mo",     "value": "1M exec + 400K GB-s" }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/functions/",
+            "note": "East US | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Containers",
+            "service": "AKS / Container Instances",
+            "priceItems": [
+                { "label": "AKS Cluster Mgmt", "value": "Free (Standard)" },
+                { "label": "ACI Linux vCPU",   "value": "$0.0486/vCPU-hr" },
+                { "label": "ACI Linux Memory", "value": "$0.0054/GB-hr"   }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/kubernetes-service/",
+            "note": "East US | azure.microsoft.com (static)"
+        },
+        {
+            "label": "Security",
+            "service": "Azure Firewall",
+            "priceItems": [
+                { "label": "Deployment",     "value": "$1.250/hr" },
+                { "label": "Data Processed", "value": "$0.016/GB" },
+                { "label": "Defender for Cloud (Free tier)", "value": "Free" }
+            ],
+            "pricingUrl": "https://azure.microsoft.com/en-us/pricing/details/azure-firewall/",
+            "note": "East US | azure.microsoft.com (static)"
+        }
+    ]
+}
