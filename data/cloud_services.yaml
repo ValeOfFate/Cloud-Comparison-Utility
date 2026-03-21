@@ -10,140 +10,140 @@ Cloud Service:
       name: Amazon EC2
       link: https://aws.amazon.com/ec2/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Virtual Machines
+      link: https://azure.microsoft.com/en-us/products/virtual-machines/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Compute Engine
+      link: https://cloud.google.com/compute
     alibaba:
-      name: WIP
-      link: WIP
+      name: Elastic Compute Service (ECS)
+      link: https://www.alibabacloud.com/en/product/ecs
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Compute
+      link: https://www.oracle.com/cloud/compute/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Virtual Servers
+      link: https://www.ibm.com/cloud/virtual-servers
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Virtual Machine (CVM)
+      link: https://www.tencentcloud.com/products/cvm
     huawei:
-      name: WIP
-      link: WIP
+      name: Elastic Cloud Server (ECS)
+      link: https://www.huaweicloud.com/intl/en-us/product/ecs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Serverless Compute:
     aws:
       name: AWS Lambda
       link: https://aws.amazon.com/lambda/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Functions
+      link: https://azure.microsoft.com/en-us/products/functions/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Functions
+      link: https://cloud.google.com/functions
     alibaba:
-      name: WIP
-      link: WIP
+      name: Function Compute
+      link: https://www.alibabacloud.com/en/product/function-compute
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Functions
+      link: https://www.oracle.com/cloud/cloud-native/functions/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Code Engine
+      link: https://www.ibm.com/cloud/code-engine
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Functions
+      link: https://developer.salesforce.com/docs/platform/functions/guide/index.html
     tencent:
-      name: WIP
-      link: WIP
+      name: Serverless Cloud Function (SCF)
+      link: https://www.tencentcloud.com/products/scf
     huawei:
-      name: WIP
-      link: WIP
+      name: FunctionGraph
+      link: https://www.huaweicloud.com/intl/en-us/product/functiongraph.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift Serverless
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift/serverless
 
   Full-Stack Platform / PaaS:
     aws:
       name: AWS Elastic Beanstalk
       link: https://aws.amazon.com/elasticbeanstalk/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure App Service
+      link: https://azure.microsoft.com/en-us/products/app-service/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google App Engine
+      link: https://cloud.google.com/appengine
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud Web App Service
+      link: https://www.alibabacloud.com/en/solutions/hosting?_p_lc=1
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Cloud App Development
+      link: https://www.oracle.com/application-development/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Foundry
+      link: https://www.ibm.com/docs/en/cloud-private/3.1.2?topic=cloud-private-cloud-foundry-platform
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Platform (Force.com)
+      link: https://www.salesforce.com/products/platform/overview/
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent CloudBase
+      link: https://www.tencentcloud.com/products/tcb
     huawei:
-      name: WIP
-      link: WIP
+      name: Cloud Application Engine (CAE)
+      link: https://www.huaweicloud.com/intl/en-us/product/cae.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift
 
   Batch Processing:
     aws:
       name: AWS Batch
       link: https://aws.amazon.com/batch/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Batch
+      link: https://azure.microsoft.com/en-us/products/batch/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Batch
+      link: https://cloud.google.com/batch
     alibaba:
-      name: WIP
-      link: WIP
+      name: BatchCompute
+      link: https://www.alibabacloud.com/en/product/batch-compute
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Data Flow
+      link: https://www.oracle.com/big-data/data-flow/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Spectrum LSF on Cloud
+      link: https://www.ibm.com/products/hpc-workload-management
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: BatchCompute
+      link: https://www.tencentcloud.com/products/batch
     huawei:
-      name: WIP
-      link: WIP
+      name: MapReduce Service (MRS)
+      link: https://www.huaweicloud.com/intl/en-us/product/mrs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   # ── CONTAINERS ─────────────────────────────────────────────────────────────
 
@@ -155,105 +155,105 @@ Cloud Service:
       name: Amazon Elastic Kubernetes Service (EKS)
       link: https://aws.amazon.com/eks/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Kubernetes Service (AKS)
+      link: https://azure.microsoft.com/en-us/products/kubernetes-service/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Kubernetes Engine (GKE)
+      link: https://cloud.google.com/kubernetes-engine
     alibaba:
-      name: WIP
-      link: WIP
+      name: Container Service for Kubernetes (ACK)
+      link: https://www.alibabacloud.com/en/product/kubernetes
     oci:
-      name: WIP
-      link: WIP
+      name: Container Engine for Kubernetes (OKE)
+      link: https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Kubernetes Service
+      link: https://www.ibm.com/cloud/kubernetes-service
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Kubernetes Engine (TKE)
+      link: https://www.tencentcloud.com/products/tke
     huawei:
-      name: WIP
-      link: WIP
+      name: Cloud Container Engine (CCE)
+      link: https://www.huaweicloud.com/intl/en-us/product/cce.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift
 
   Managed Container Service:
     aws:
       name: Amazon Elastic Container Service (ECS)
       link: https://aws.amazon.com/ecs/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Container Instances
+      link: https://azure.microsoft.com/en-us/products/container-instances/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Run
+      link: https://cloud.google.com/run
     alibaba:
-      name: WIP
-      link: WIP
+      name: Elastic Container Instance (ECI)
+      link: https://www.alibabacloud.com/en/product/elastic-container-instance
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Container Instances
+      link: https://www.oracle.com/cloud/cloud-native/container-instances/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Code Engine
+      link: https://www.ibm.com/cloud/code-engine
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Elastic Kubernetes Service (EKS)
+      link: https://www.tencentcloud.com/products/eks
     huawei:
-      name: WIP
-      link: WIP
+      name: Cloud Container Instance (CCI)
+      link: https://www.huaweicloud.com/intl/en-us/product/cci.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift
 
   Container Registry:
     aws:
       name: Amazon Elastic Container Registry (ECR)
       link: https://aws.amazon.com/ecr/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Container Registry
+      link: https://azure.microsoft.com/en-us/products/container-registry/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Artifact Registry
+      link: https://cloud.google.com/artifact-registry
     alibaba:
-      name: WIP
-      link: WIP
+      name: Container Registry (ACR)
+      link: https://www.alibabacloud.com/en/product/container-registry
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Container Registry (OCIR)
+      link: https://www.oracle.com/cloud/cloud-native/container-registry/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Container Registry
+      link: https://www.ibm.com/cloud/container-registry
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Container Registry (TCR)
+      link: https://www.tencentcloud.com/products/tcr
     huawei:
-      name: WIP
-      link: WIP
+      name: SWR (Software Repository)
+      link: https://www.huaweicloud.com/intl/en-us/product/swr.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat Quay
+      link: https://www.redhat.com/en/technologies/cloud-computing/quay
 
   # ── STORAGE ────────────────────────────────────────────────────────────────
 
@@ -265,140 +265,140 @@ Cloud Service:
       name: Amazon S3
       link: https://aws.amazon.com/s3/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Blob Storage
+      link: https://azure.microsoft.com/en-us/products/storage/blobs/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Storage
+      link: https://cloud.google.com/storage
     alibaba:
-      name: WIP
-      link: WIP
+      name: Object Storage Service (OSS)
+      link: https://www.alibabacloud.com/en/product/object-storage-service
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Object Storage
+      link: https://www.oracle.com/cloud/storage/object-storage/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Object Storage
+      link: https://www.ibm.com/cloud/object-storage
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Object Storage (COS)
+      link: https://www.tencentcloud.com/products/cos
     huawei:
-      name: WIP
-      link: WIP
+      name: Object Storage Service (OBS)
+      link: https://www.huaweicloud.com/intl/en-us/product/obs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: OpenShift Data Foundation
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift-data-foundation
 
   Block Storage:
     aws:
       name: Amazon Elastic Block Store (EBS)
       link: https://aws.amazon.com/ebs/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Managed Disks
+      link: https://azure.microsoft.com/en-us/products/storage/disks/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Persistent Disk
+      link: https://cloud.google.com/persistent-disk
     alibaba:
-      name: WIP
-      link: WIP
+      name: Elastic Block Storage (EBS)
+      link: https://www.alibabacloud.com/en/product/disk
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Block Volume
+      link: https://www.oracle.com/cloud/storage/block-volumes/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Block Storage
+      link: https://www.ibm.com/cloud/block-storage
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Block Storage (CBS)
+      link: https://www.tencentcloud.com/products/cbs
     huawei:
-      name: WIP
-      link: WIP
+      name: Elastic Volume Service (EVS)
+      link: https://www.huaweicloud.com/intl/en-us/product/evs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   File Storage:
     aws:
       name: Amazon Elastic File System (EFS)
       link: https://aws.amazon.com/efs/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Files
+      link: https://azure.microsoft.com/en-us/products/storage/files/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Filestore
+      link: https://cloud.google.com/filestore
     alibaba:
-      name: WIP
-      link: WIP
+      name: Apsara File Storage NAS
+      link: https://www.alibabacloud.com/en/product/nas
     oci:
-      name: WIP
-      link: WIP
+      name: OCI File Storage
+      link: https://www.oracle.com/cloud/storage/file-storage/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud File Storage
+      link: https://www.ibm.com/cloud/file-storage
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud File Storage (CFS)
+      link: https://www.tencentcloud.com/products/cfs
     huawei:
-      name: WIP
-      link: WIP
+      name: Scalable File Service (SFS)
+      link: https://www.huaweicloud.com/intl/en-us/product/sfs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Archive:
     aws:
       name: Amazon S3 Glacier
       link: https://aws.amazon.com/s3/storage-classes/glacier/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Blob Storage (Archive Tier)
+      link: https://azure.microsoft.com/en-us/products/storage/blobs/
     gcp:
-      name: WIP
-      link: WIP
+      name: Cloud Storage Archive
+      link: https://cloud.google.com/storage/archival
     alibaba:
-      name: WIP
-      link: WIP
+      name: OSS Archive Storage
+      link: https://www.alibabacloud.com/en/product/oss
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Archive Storage
+      link: https://www.oracle.com/cloud/storage/archive-storage/
     ibm:
-      name: WIP
-      link: WIP
+      name: Cloud Object Storage (Archive)
+      link: https://www.ibm.com/cloud/object-storage
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud File Storage (CFS)
+      link: https://www.tencentcloud.com/products/cfs
     huawei:
-      name: WIP
-      link: WIP
+      name: OBS Archive Storage
+      link: https://www.huaweicloud.com/intl/en-us/product/obs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   # ── DATABASE ───────────────────────────────────────────────────────────────
 
@@ -413,70 +413,70 @@ Cloud Service:
         - name: Amazon Aurora
           link: https://aws.amazon.com/rds/aurora/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure SQL Database
+      link: https://azure.microsoft.com/en-us/products/azure-sql/database/
     gcp:
-      name: WIP
-      link: WIP
+      name: Cloud SQL
+      link: https://cloud.google.com/sql
     alibaba:
-      name: WIP
-      link: WIP
+      name: ApsaraDB RDS
+      link: https://www.alibabacloud.com/en/product/apsaradb-for-rds
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Autonomous Database
+      link: https://www.oracle.com/autonomous-database/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Db2 on Cloud
+      link: https://www.ibm.com/cloud/db2-on-cloud
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TencentDB for MySQL
+      link: https://www.tencentcloud.com/products/cdb
     huawei:
-      name: WIP
-      link: WIP
+      name: Relational Database Service (RDS)
+      link: https://www.huaweicloud.com/intl/en-us/special/pro-what-rds.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   NoSQL Database:
     aws:
       name: Amazon DynamoDB
       link: https://aws.amazon.com/dynamodb/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Cosmos DB
+      link: https://azure.microsoft.com/en-us/products/cosmos-db/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Firestore
+      link: https://cloud.google.com/firestore
     alibaba:
-      name: WIP
-      link: WIP
+      name: ApsaraDB for MongoDB
+      link: https://www.alibabacloud.com/en/product/apsaradb-for-mongodb
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle NoSQL Database Cloud
+      link: https://www.oracle.com/database/nosql/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloudant
+      link: https://www.ibm.com/cloud/cloudant
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TencentDB for MongoDB
+      link: https://www.tencentcloud.com/products/mongodb
     huawei:
-      name: WIP
-      link: WIP
+      name: GeminiDB
+      link: https://www.huaweicloud.com/intl/en-us/product/geminidb.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   In-Memory Cache:
     aws:
@@ -486,175 +486,175 @@ Cloud Service:
         - name: Amazon MemoryDB
           link: https://aws.amazon.com/memorydb/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Cache for Redis
+      link: https://azure.microsoft.com/en-us/products/cache/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Memorystore
+      link: https://cloud.google.com/memorystore
     alibaba:
-      name: WIP
-      link: WIP
+      name: ApsaraDB for Redis
+      link: https://www.alibabacloud.com/en/product/apsaradb-for-redis
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Cache with Redis
+      link: https://www.oracle.com/cloud/cache/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Databases for Redis
+      link: https://www.ibm.com/cloud/databases-for-redis
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Platform Cache
+      link: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_cache_namespace_overview.htm
     tencent:
-      name: WIP
-      link: WIP
+      name: TencentDB for Redis
+      link: https://www.tencentcloud.com/document/product/1226/76586
     huawei:
-      name: WIP
-      link: WIP
+      name: Distributed Cache Service (DCS)
+      link: https://www.huaweicloud.com/intl/en-us/product/dcs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Graph Database:
     aws:
       name: Amazon Neptune
       link: https://aws.amazon.com/neptune/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Cosmos DB (Gremlin API)
+      link: https://azure.microsoft.com/en-us/products/cosmos-db/
     gcp:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     alibaba:
-      name: WIP
-      link: WIP
+      name: Neo4j Graph Data Platform
+      link: https://www.alibabacloud.com/en/marketplace/neo4j?_p_lc=1
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Graph Studio
+      link: https://www.oracle.com/database/graph/
     ibm:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     huawei:
-      name: WIP
-      link: WIP
+      name: Graph Engine Service (GES)
+      link: https://www.huaweicloud.com/intl/en-us/product/ges.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Time Series Database:
     aws:
       name: Amazon Timestream
       link: https://aws.amazon.com/timestream/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Data Explorer
+      link: https://azure.microsoft.com/en-us/products/data-explorer/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Bigtable
+      link: https://cloud.google.com/bigtable
     alibaba:
-      name: WIP
-      link: WIP
+      name: Time Series Database (TSDB)
+      link: https://www.alibabacloud.com/en/product/hitsdb
     oci:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Databases for InfluxDB
+      link: https://www.ibm.com/docs/en/streamsets-controlhub?topic=types-influxdb
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: CTSDB (Time Series Database)
+      link: https://www.tencentcloud.com/products/ctsdb
     huawei:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Document Database:
     aws:
       name: Amazon DocumentDB
       link: https://aws.amazon.com/documentdb/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Cosmos DB
+      link: https://azure.microsoft.com/en-us/products/cosmos-db/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Firestore
+      link: https://cloud.google.com/firestore
     alibaba:
-      name: WIP
-      link: WIP
+      name: ApsaraDB for MongoDB
+      link: https://www.alibabacloud.com/en/product/apsaradb-for-mongodb
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle NoSQL Database Cloud
+      link: https://www.oracle.com/database/nosql/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloudant
+      link: https://www.ibm.com/cloud/cloudant
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TencentDB for MongoDB
+      link: https://www.tencentcloud.com/products/mongodb
     huawei:
-      name: WIP
-      link: WIP
+      name: GeminiDB Mongo
+      link: https://www.huaweicloud.com/intl/en-us/product/geminidb.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Wide-Column / Keyspace Database:
     aws:
       name: Amazon Keyspaces
       link: https://aws.amazon.com/keyspaces/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Cosmos DB for Apache Cassandra
+      link: https://azure.microsoft.com/en-us/products/cosmos-db/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Bigtable
+      link: https://cloud.google.com/bigtable
     alibaba:
-      name: WIP
-      link: WIP
+      name: Tablestore
+      link: https://www.alibabacloud.com/en/product/table-store
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle NoSQL Database Cloud
+      link: https://www.oracle.com/database/nosql/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Databases for Apache Cassandra (HBase)
+      link: https://www.ibm.com/think/topics/cassandra
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TcaplusDB
+      link: https://www.tencentcloud.com/products/tcaplusdb
     huawei:
-      name: WIP
-      link: WIP
+      name: CloudTable (HBase)
+      link: https://support.huaweicloud.com/intl/en-us/cloudtable/index.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   # ── NETWORKING ─────────────────────────────────────────────────────────────
 
@@ -666,175 +666,175 @@ Cloud Service:
       name: Amazon VPC
       link: https://aws.amazon.com/vpc/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Virtual Network
+      link: https://azure.microsoft.com/en-us/products/virtual-network/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Virtual Private Cloud
+      link: https://cloud.google.com/vpc
     alibaba:
-      name: WIP
-      link: WIP
+      name: Virtual Private Cloud (VPC)
+      link: https://www.alibabacloud.com/en/product/vpc
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Virtual Cloud Network (VCN)
+      link: https://www.oracle.com/cloud/networking/virtual-cloud-network/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud VPC
+      link: https://www.ibm.com/cloud/vpc
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Virtual Private Cloud (VPC)
+      link: https://www.tencentcloud.com/products/vpc
     huawei:
-      name: WIP
-      link: WIP
+      name: Virtual Private Cloud (VPC)
+      link: https://www.huaweicloud.com/intl/en-us/product/vpc.html
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco SD-WAN
+      link: https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Load Balancing:
     aws:
       name: Elastic Load Balancing
       link: https://aws.amazon.com/elasticloadbalancing/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Load Balancer
+      link: https://azure.microsoft.com/en-us/products/load-balancer/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Load Balancing
+      link: https://cloud.google.com/load-balancing
     alibaba:
-      name: WIP
-      link: WIP
+      name: Server Load Balancer (SLB)
+      link: https://www.alibabacloud.com/en/product/server-load-balancer
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Load Balancer
+      link: https://www.oracle.com/cloud/networking/load-balancing/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Load Balancer
+      link: https://www.ibm.com/cloud/load-balancer
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Load Balancer (CLB)
+      link: https://www.tencentcloud.com/products/clb
     huawei:
-      name: WIP
-      link: WIP
+      name: Elastic Load Balance (ELB)
+      link: https://www.huaweicloud.com/intl/en-us/product/elb.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   DNS Management:
     aws:
       name: Amazon Route 53
       link: https://aws.amazon.com/route53/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure DNS
+      link: https://azure.microsoft.com/en-us/products/dns/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud DNS
+      link: https://cloud.google.com/dns
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud DNS
+      link: https://www.alibabacloud.com/en/product/dns
     oci:
-      name: WIP
-      link: WIP
+      name: OCI DNS
+      link: https://www.oracle.com/cloud/networking/dns/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud DNS Services
+      link: https://www.ibm.com/cloud/dns
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: DNSPod
+      link: https://www.tencentcloud.com/document/product/1157
     huawei:
-      name: WIP
-      link: WIP
+      name: Domain Name Service (DNS)
+      link: https://www.huaweicloud.com/intl/en-us/product/dns.html
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco Umbrella
+      link: https://umbrella.cisco.com/
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Content Delivery (CDN):
     aws:
       name: Amazon CloudFront
       link: https://aws.amazon.com/cloudfront/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure CDN
+      link: https://azure.microsoft.com/en-us/products/cdn/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud CDN
+      link: https://cloud.google.com/cdn
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud CDN
+      link: https://www.alibabacloud.com/en/product/cdn
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Content Delivery Network
+      link: https://www.oracle.com/cloud/networking/web-application-accelerator/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud CDN
+      link: https://www.ibm.com/cloud/cdn
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Cloud CDN
+      link: https://www.tencentcloud.com/products/cdn
     huawei:
-      name: WIP
-      link: WIP
+      name: Content Delivery Network (CDN)
+      link: https://www.huaweicloud.com/intl/en-us/product/cdn.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   API Gateway:
     aws:
       name: Amazon API Gateway
       link: https://aws.amazon.com/api-gateway/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure API Management
+      link: https://azure.microsoft.com/en-us/products/api-management/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud API Gateway
+      link: https://cloud.google.com/api-gateway
     alibaba:
-      name: WIP
-      link: WIP
+      name: API Gateway
+      link: https://www.alibabacloud.com/en/product/api-gateway
     oci:
-      name: WIP
-      link: WIP
+      name: OCI API Gateway
+      link: https://www.oracle.com/cloud/cloud-native/api-gateway/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM API Connect
+      link: https://cloud.ibm.com/catalog/services/api-connect
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce API Platform
+      link: https://developer.salesforce.com/docs/apis
     tencent:
-      name: WIP
-      link: WIP
+      name: API Gateway
+      link: https://www.tencentcloud.com/products/apigateway
     huawei:
-      name: WIP
-      link: WIP
+      name: API Gateway (APIG)
+      link: https://www.huaweicloud.com/intl/en-us/product/apig.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat 3scale API Management
+      link: https://www.redhat.com/en/technologies/jboss-middleware/3scale
 
   # ── MESSAGING & INTEGRATION ────────────────────────────────────────────────
 
@@ -846,210 +846,210 @@ Cloud Service:
       name: Amazon Simple Queue Service (SQS)
       link: https://aws.amazon.com/sqs/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Queue Storage
+      link: https://azure.microsoft.com/en-us/products/storage/queues/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Tasks
+      link: https://cloud.google.com/tasks
     alibaba:
-      name: WIP
-      link: WIP
+      name: Message Service (MNS)
+      link: https://www.alibabacloud.com/en/product/message-service
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Queue
+      link: https://www.oracle.com/cloud/queue/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM MQ on Cloud
+      link: https://www.ibm.com/cloud/mq
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Platform Events
+      link: https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/
     tencent:
-      name: WIP
-      link: WIP
+      name: TDMQ for CMQ
+      link: https://www.tencentcloud.com/products/cmq
     huawei:
-      name: WIP
-      link: WIP
+      name: Distributed Message Service (DMS)
+      link: https://www.huaweicloud.com/intl/en-us/product/dms.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat AMQ
+      link: https://www.redhat.com/en/technologies/jboss-middleware/amq
 
   Pub/Sub Messaging:
     aws:
       name: Amazon Simple Notification Service (SNS)
       link: https://aws.amazon.com/sns/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Service Bus
+      link: https://azure.microsoft.com/en-us/products/service-bus/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Pub/Sub
+      link: https://cloud.google.com/pubsub
     alibaba:
-      name: WIP
-      link: WIP
+      name: Message Queue for RocketMQ
+      link: https://www.alibabacloud.com/en/product/mq
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Notifications
+      link: https://www.oracle.com/cloud/cloud-native/notifications/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Event Streams
+      link: https://www.ibm.com/products/event-streams
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Pub/Sub API
+      link: https://developer.salesforce.com/docs/platform/pub-sub-api/overview
     tencent:
-      name: WIP
-      link: WIP
+      name: TDMQ for RocketMQ
+      link: https://www.tencentcloud.com/products/tdmq
     huawei:
-      name: WIP
-      link: WIP
+      name: Simple Message Notification (SMN)
+      link: https://www.huaweicloud.com/intl/en-us/product/smn.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat AMQ Streams
+      link: https://www.redhat.com/en/technologies/jboss-middleware/amq
 
   Event Streaming:
     aws:
       name: Amazon Kinesis Data Streams
       link: https://aws.amazon.com/kinesis/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Event Hubs
+      link: https://azure.microsoft.com/en-us/products/event-hubs/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Pub/Sub
+      link: https://cloud.google.com/pubsub
     alibaba:
-      name: WIP
-      link: WIP
+      name: Message Queue for Apache Kafka
+      link: https://www.alibabacloud.com/en/product/kafka
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Streaming
+      link: https://www.oracle.com/cloud/cloud-native/streaming/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Event Streams
+      link: https://www.ibm.com/products/event-streams
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Platform Events
+      link: https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/
     tencent:
-      name: WIP
-      link: WIP
+      name: CKafka
+      link: https://www.tencentcloud.com/products/ckafka
     huawei:
-      name: WIP
-      link: WIP
+      name: DMS for Kafka
+      link: https://www.huaweicloud.com/intl/en-us/product/dms.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat AMQ Streams
+      link: https://www.redhat.com/en/technologies/jboss-middleware/amq
 
   Managed Kafka:
     aws:
       name: Amazon Managed Streaming for Apache Kafka (MSK)
       link: https://aws.amazon.com/msk/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Event Hubs for Kafka
+      link: https://azure.microsoft.com/en-us/products/event-hubs/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Managed Kafka
+      link: https://cloud.google.com/products/managed-service-for-apache-kafka?hl=en
     alibaba:
-      name: WIP
-      link: WIP
+      name: Message Queue for Apache Kafka
+      link: https://www.alibabacloud.com/en/product/kafka
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Streaming (Kafka-compatible)
+      link: https://www.oracle.com/cloud/cloud-native/streaming/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Event Streams
+      link: https://www.ibm.com/products/event-streams
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: CKafka
+      link: https://www.tencentcloud.com/products/ckafka
     huawei:
-      name: WIP
-      link: WIP
+      name: DMS for Kafka
+      link: https://www.huaweicloud.com/intl/en-us/product/dms.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat AMQ Streams
+      link: https://www.redhat.com/en/technologies/jboss-middleware/amq
 
   Workflow Orchestration:
     aws:
       name: AWS Step Functions
       link: https://aws.amazon.com/step-functions/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Logic Apps
+      link: https://azure.microsoft.com/en-us/products/logic-apps/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Workflows
+      link: https://cloud.google.com/workflows
     alibaba:
-      name: WIP
-      link: WIP
+      name: Serverless Workflow
+      link: https://www.alibabacloud.com/en/product/serverless-workflow
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Process Automation
+      link: https://www.oracle.com/integration/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud App Connect
+      link: https://www.ibm.com/products/app-connect
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Flow
+      link: https://www.salesforce.com/mulesoft/automation/
     tencent:
-      name: WIP
-      link: WIP
+      name: EventBridge
+      link: https://www.tencentcloud.com/products/eb
     huawei:
-      name: WIP
-      link: WIP
+      name: ASTRO Low-Code
+      link: https://www.huaweicloud.com/intl/en-us/product/appcube.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat Process Automation Manager
+      link: https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager
 
   Managed Message Broker:
     aws:
       name: Amazon MQ
       link: https://aws.amazon.com/amazon-mq/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Service Bus
+      link: https://azure.microsoft.com/en-us/products/service-bus/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Pub/Sub
+      link: https://cloud.google.com/pubsub
     alibaba:
-      name: WIP
-      link: WIP
+      name: Message Queue for RabbitMQ
+      link: https://www.alibabacloud.com/en/product/rabbitmq
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Streaming
+      link: https://www.oracle.com/cloud/cloud-native/streaming/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM MQ on Cloud
+      link: https://www.ibm.com/cloud/mq
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TDMQ
+      link: https://www.tencentcloud.com/products/tdmq
     huawei:
-      name: WIP
-      link: WIP
+      name: DMS for RocketMQ
+      link: https://www.huaweicloud.com/intl/en-us/product/dms.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat AMQ
+      link: https://www.redhat.com/en/technologies/jboss-middleware/amq
 
   # ── ANALYTICS ─────────────────────────────────────────────────────────────
 
@@ -1066,70 +1066,70 @@ Cloud Service:
         - name: Amazon S3 Tables
           link: https://aws.amazon.com/s3/features/tables/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Synapse Analytics
+      link: https://azure.microsoft.com/en-us/products/synapse-analytics/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google BigQuery
+      link: https://cloud.google.com/bigquery
     alibaba:
-      name: WIP
-      link: WIP
+      name: MaxCompute
+      link: https://www.alibabacloud.com/en/product/maxcompute
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Autonomous Data Warehouse
+      link: https://www.oracle.com/autonomous-database/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Db2 Warehouse on Cloud
+      link: https://www.ibm.com/cloud/db2-warehouse-on-cloud
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Data Cloud
+      link: https://www.salesforce.com/products/data/
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud TCHouse-D
+      link: https://intl.cloud.tencent.com/products/tchoused
     huawei:
-      name: WIP
-      link: WIP
+      name: Data Warehouse Service (DWS)
+      link: https://www.huaweicloud.com/intl/en-us/product/dws.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Lakehouse Architecture:
     aws:
       name: AWS Lake Formation
       link: https://aws.amazon.com/lake-formation/
     azure:
-      name: WIP
-      link: WIP
+      name: Microsoft Fabric
+      link: https://www.microsoft.com/en-us/microsoft-fabric
     gcp:
-      name: WIP
-      link: WIP
+      name: Google BigLake
+      link: https://cloud.google.com/biglake
     alibaba:
-      name: WIP
-      link: WIP
+      name: Data Lake Analytics (DLA)
+      link: https://www.alibabacloud.com/en/product/datalakeanalytics
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Data Lakehouse
+      link: https://www.oracle.com/big-data/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM watsonx.data
+      link: https://www.ibm.com/products/watsonx-data
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Data Cloud
+      link: https://www.salesforce.com/products/data/
     tencent:
-      name: WIP
-      link: WIP
+      name: Data Lake Compute (DLC)
+      link: https://www.tencentcloud.com/products/dlc
     huawei:
-      name: WIP
-      link: WIP
+      name: Data Lake Insight (DLI)
+      link: https://www.huaweicloud.com/intl/en-us/product/dli.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Data Processing:
     aws:
@@ -1143,105 +1143,105 @@ Cloud Service:
         - name: Amazon MWAA
           link: https://aws.amazon.com/managed-workflows-for-apache-airflow/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Databricks
+      link: https://azure.microsoft.com/en-us/products/databricks/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Dataproc
+      link: https://cloud.google.com/dataproc
     alibaba:
-      name: WIP
-      link: WIP
+      name: E-MapReduce (EMR)
+      link: https://www.alibabacloud.com/en/product/emapreduce
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Data Flow
+      link: https://www.oracle.com/big-data/data-flow/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Analytics Engine
+      link: https://www.ibm.com/cloud/analytics-engine
     salesforce:
-      name: WIP
-      link: WIP
+      name: MuleSoft Anypoint Platform
+      link: https://www.salesforce.com/mulesoft/anypoint-platform/
     tencent:
-      name: WIP
-      link: WIP
+      name: Elastic MapReduce (EMR)
+      link: https://www.tencentcloud.com/products/emr
     huawei:
-      name: WIP
-      link: WIP
+      name: MapReduce Service (MRS)
+      link: https://www.huaweicloud.com/intl/en-us/product/mrs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Search Analytics:
     aws:
       name: Amazon OpenSearch Service
       link: https://aws.amazon.com/opensearch-service/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Search
+      link: https://azure.microsoft.com/en-us/products/ai-services/ai-search/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Vertex AI Search
+      link: https://cloud.google.com/vertex-ai-search-and-conversation
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud OpenSearch
+      link: https://www.alibabacloud.com/en/product/opensearch
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Search with OpenSearch
+      link: https://www.oracle.com/cloud/search/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Discovery
+      link: https://www.ibm.com/cloud/watson-discovery
     salesforce:
-      name: WIP
-      link: WIP
+      name: Tableau
+      link: https://www.tableau.com/
     tencent:
-      name: WIP
-      link: WIP
+      name: Elasticsearch Service
+      link: https://www.tencentcloud.com/products/es
     huawei:
-      name: WIP
-      link: WIP
+      name: Cloud Search Service (CSS)
+      link: https://www.huaweicloud.com/intl/en-us/product/css.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   BI / Data Visualization:
     aws:
       name: Amazon QuickSight
       link: https://aws.amazon.com/quick/quicksight/
     azure:
-      name: WIP
-      link: WIP
+      name: Microsoft Power BI
+      link: https://powerbi.microsoft.com/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Looker
+      link: https://cloud.google.com/looker
     alibaba:
-      name: WIP
-      link: WIP
+      name: Quick BI
+      link: https://www.alibabacloud.com/en/product/quickbi
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Analytics Cloud
+      link: https://www.oracle.com/analytics/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cognos Analytics
+      link: https://www.ibm.com/products/cognos-analytics
     salesforce:
-      name: WIP
-      link: WIP
+      name: Tableau
+      link: https://www.tableau.com/
     tencent:
-      name: WIP
-      link: WIP
+      name: Business Intelligence (BI)
+      link: https://www.tencentcloud.com/products/bi
     huawei:
-      name: WIP
-      link: WIP
+      name: DataArts Studio
+      link: https://www.huaweicloud.com/intl/en-us/product/dayu.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   # ── AI / MACHINE LEARNING ─────────────────────────────────────────────────
 
@@ -1253,385 +1253,385 @@ Cloud Service:
       name: Amazon SageMaker
       link: https://aws.amazon.com/sagemaker/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Machine Learning
+      link: https://azure.microsoft.com/en-us/products/machine-learning/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Vertex AI
+      link: https://cloud.google.com/vertex-ai
     alibaba:
-      name: WIP
-      link: WIP
+      name: Machine Learning Platform for AI (PAI)
+      link: https://www.alibabacloud.com/en/product/machine-learning
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Data Science
+      link: https://www.oracle.com/artificial-intelligence/data-science/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Studio
+      link: https://www.ibm.com/cloud/watson-studio
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein AI
+      link: https://www.salesforce.com/products/einstein/overview/
     tencent:
-      name: WIP
-      link: WIP
+      name: TI Platform
+      link: https://www.tencentcloud.com/products/ti
     huawei:
-      name: WIP
-      link: WIP
+      name: ModelArts
+      link: https://www.huaweicloud.com/intl/en-us/product/modelarts.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift AI
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai
 
   Generative AI Platform:
     aws:
       name: Amazon Bedrock
       link: https://aws.amazon.com/bedrock/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure OpenAI Service
+      link: https://azure.microsoft.com/en-us/products/ai-services/openai-service/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Vertex AI Gemini
+      link: https://cloud.google.com/vertex-ai/generative-ai/docs/overview
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud Model Studio
+      link: https://www.alibabacloud.com/en/product/modelstudio?_p_lc=1
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Generative AI
+      link: https://www.oracle.com/artificial-intelligence/generative-ai/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM watsonx.ai
+      link: https://www.ibm.com/watsonx
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein Copilot
+      link: https://www.salesforce.com/artificial-intelligence/
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Hunyuan
+      link: https://www.tencentcloud.com/products/hunyuan
     huawei:
-      name: WIP
-      link: WIP
+      name: Pangu Models
+      link: https://www.huaweicloud.com/intl/en-us/product/pangu.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat AI (RHEL AI)
+      link: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai
 
   NLP / Text Analytics:
     aws:
       name: Amazon Comprehend
       link: https://aws.amazon.com/comprehend/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Language
+      link: https://azure.microsoft.com/en-us/products/ai-services/text-analytics/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Natural Language
+      link: https://cloud.google.com/natural-language
     alibaba:
-      name: WIP
-      link: WIP
+      name: Natural Language Processing (NLP)
+      link: https://www.alibabacloud.com/en/product/machine-translation
     oci:
-      name: WIP
-      link: WIP
+      name: OCI AI Language
+      link: https://www.oracle.com/artificial-intelligence/language/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Natural Language Understanding
+      link: https://www.ibm.com/cloud/watson-natural-language-understanding
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein NLP
+      link: https://www.salesforce.com/products/einstein/overview/
     tencent:
-      name: WIP
-      link: WIP
+      name: Natural Language Processing
+      link: https://www.tencentcloud.com/document/product/598/57170
     huawei:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Image / Video Recognition:
     aws:
       name: Amazon Rekognition
       link: https://aws.amazon.com/rekognition/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Vision
+      link: https://azure.microsoft.com/en-us/products/ai-services/ai-vision/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Vision AI
+      link: https://cloud.google.com/vision
     alibaba:
-      name: WIP
-      link: WIP
+      name: Image Search
+      link: https://www.alibabacloud.com/en/product/imagesearch
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Vision
+      link: https://www.oracle.com/artificial-intelligence/vision/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Visual Recognition
+      link: https://mediacenter.ibm.com/media/IBM+Watson+Visual+Recognition/0_jbsmp6lq
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein Vision
+      link: https://www.salesforce.com/products/einstein/overview/
     tencent:
-      name: WIP
-      link: WIP
+      name: Image Recognition
+      link: https://www.tencentcloud.com/document/product/436/35280
     huawei:
-      name: WIP
-      link: WIP
+      name: Image Recognition
+      link: https://www.huaweicloud.com/intl/en-us/product/image.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Speech to Text:
     aws:
       name: Amazon Transcribe
       link: https://aws.amazon.com/transcribe/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Speech
+      link: https://azure.microsoft.com/en-us/products/ai-services/speech-to-text/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Speech-to-Text
+      link: https://cloud.google.com/speech-to-text
     alibaba:
-      name: WIP
-      link: WIP
+      name: Intelligent Speech Interaction
+      link: https://www.alibabacloud.com/en/product/intelligent-speech-interaction?_p_lc=1
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Speech
+      link: https://www.oracle.com/artificial-intelligence/speech/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Speech to Text
+      link: https://www.ibm.com/cloud/watson-speech-to-text
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Automatic Speech Recognition (ASR)
+      link: https://www.tencentcloud.com/products/asr
     huawei:
-      name: WIP
-      link: WIP
+      name: Speech Interaction Service (SIS)
+      link: https://support.huaweicloud.com/intl/en-us/sis/index.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Text to Speech:
     aws:
       name: Amazon Polly
       link: https://aws.amazon.com/polly/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Speech
+      link: https://azure.microsoft.com/en-us/products/ai-services/text-to-speech/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Text-to-Speech
+      link: https://cloud.google.com/text-to-speech
     alibaba:
-      name: WIP
-      link: WIP
+      name: Intelligent Speech Interaction
+      link: https://www.alibabacloud.com/en/product/intelligent-speech-interaction
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Speech
+      link: https://www.oracle.com/artificial-intelligence/speech/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Text to Speech
+      link: https://www.ibm.com/cloud/watson-text-to-speech
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Text to Speech (TTS)
+      link: https://www.tencentcloud.com/products/tts
     huawei:
-      name: WIP
-      link: WIP
+      name: Speech Interaction Service (SIS)
+      link: https://support.huaweicloud.com/intl/en-us/productdesc-sis/sis_01_0001.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Translation:
     aws:
       name: Amazon Translate
       link: https://aws.amazon.com/translate/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Translator
+      link: https://azure.microsoft.com/en-us/products/ai-services/translator/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Translation
+      link: https://cloud.google.com/translate
     alibaba:
-      name: WIP
-      link: WIP
+      name: Machine Translation
+      link: https://www.alibabacloud.com/en/product/machine-translation
     oci:
-      name: WIP
-      link: WIP
+      name: OCI AI Language
+      link: https://www.oracle.com/artificial-intelligence/language/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Language Translator
+      link: https://www.ibm.com/cloud/watson-language-translator
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Machine Translation (TMT)
+      link: https://www.tencentcloud.com/products/tmt
     huawei:
-      name: WIP
-      link: WIP
+      name: Real Time Translation
+      link: https://developer.huawei.com/consumer/en/doc/hiai-Guides/real-time-translation-0000001050040079
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Forecasting / Predictions:
     aws:
       name: Amazon Forecast
       link: https://aws.amazon.com/forecast/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Machine Learning
+      link: https://azure.microsoft.com/en-us/products/machine-learning/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Vertex AI Forecasting
+      link: https://cloud.google.com/vertex-ai
     alibaba:
-      name: WIP
-      link: WIP
+      name: Machine Learning Platform for AI (PAI)
+      link: https://www.alibabacloud.com/en/product/machine-learning
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Forecasting
+      link: https://www.oracle.com/artificial-intelligence/forecasting/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Machine Learning
+      link: https://www.ibm.com/watson
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein Prediction Builder
+      link: help.salesforce.com/s/articleView?language=en_US&id=sales.custom_ai_prediction_builder_lm.htm&type=5
     tencent:
-      name: WIP
-      link: WIP
+      name: TI Platform
+      link: https://www.tencentcloud.com/products/ti
     huawei:
-      name: WIP
-      link: WIP
+      name: ModelArts
+      link: https://www.huaweicloud.com/intl/en-us/product/modelarts.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Recommendation Engine:
     aws:
       name: Amazon Personalize
       link: https://aws.amazon.com/personalize/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Personalizer
+      link: https://azure.microsoft.com/en-us/products/ai-services/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Recommendations AI
+      link: https://cloud.google.com/recommendations
     alibaba:
-      name: WIP
-      link: WIP
+      name: AI Recommendation (AIRec)
+      link: https://www.alibabacloud.com/en/product/airec
     oci:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     ibm:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein Recommendations
+      link: https://help.salesforce.com/s/articleView?language=en_US&id=sales.custom_ai_prediction_builder_lm.htm&type=5
     tencent:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     huawei:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Conversational AI / Chatbot:
     aws:
       name: Amazon Lex
       link: https://aws.amazon.com/lex/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Bot Service
+      link: https://azure.microsoft.com/en-us/products/bot-services/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Dialogflow
+      link: https://cloud.google.com/dialogflow
     alibaba:
-      name: WIP
-      link: WIP
+      name: Intelligent Dialogue Analysis Service
+      link: https://www.alibabacloud.com/en/product/intelligent-speech-interaction
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Digital Assistant
+      link: https://www.oracle.com/chatbots/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Assistant
+      link: https://www.ibm.com/cloud/watson-assistant
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Einstein Bots
+      link: https://help.salesforce.com/s/articleView?id=service.bots_service_intro.htm&language=en_US&type=5
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Bot Platform (TBP)
+      link: https://www.tencentcloud.com/document/product/1145/56968
     huawei:
-      name: WIP
-      link: WIP
+      name: AI Contact Center (AICC)
+      link: https://carrier.huawei.com/en/products/service-and-software/software-business/aicc
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco Webex AI Assistant
+      link: https://www.webex.ai
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Document / OCR Extraction:
     aws:
       name: Amazon Textract
       link: https://aws.amazon.com/textract/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure AI Document Intelligence
+      link: https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Document AI
+      link: https://cloud.google.com/document-ai
     alibaba:
-      name: WIP
-      link: WIP
+      name: OCR (Optical Character Recognition)
+      link: https://www.alibabacloud.com/help/en/content-moderation/latest/php-sdk-ocr
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Document Understanding
+      link: https://www.oracle.com/artificial-intelligence/document-understanding/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson Discovery
+      link: https://www.ibm.com/cloud/watson-discovery
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Optical Character Recognition (OCR)
+      link: https://www.tencentcloud.com/products/ocr
     huawei:
-      name: WIP
-      link: WIP
+      name: Optical Character Recognition (OCR)
+      link: https://www.huaweicloud.com/intl/en-us/product/ocr.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   # ── SECURITY & IDENTITY ───────────────────────────────────────────────────
 
@@ -1643,175 +1643,175 @@ Cloud Service:
       name: AWS IAM
       link: https://aws.amazon.com/iam/
     azure:
-      name: WIP
-      link: WIP
+      name: Microsoft Entra ID
+      link: https://azure.microsoft.com/en-us/products/active-directory/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud IAM
+      link: https://cloud.google.com/iam
     alibaba:
-      name: WIP
-      link: WIP
+      name: Resource Access Management (RAM)
+      link: https://www.alibabacloud.com/en/product/ram
     oci:
-      name: WIP
-      link: WIP
+      name: OCI IAM
+      link: https://www.oracle.com/security/cloud-security/identity-cloud/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud IAM
+      link: https://www.ibm.com/services/identity-access-management
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Identity
+      link: https://help.salesforce.com/s/articleView?id=xcloud.identity_overview.htm&type=5
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Access Management (CAM)
+      link: https://www.tencentcloud.com/products/cam
     huawei:
-      name: WIP
-      link: WIP
+      name: Identity and Access Management (IAM)
+      link: https://www.huaweicloud.com/intl/en-us/product/iam.html
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco Duo
+      link: https://duo.com/
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat SSO (Keycloak)
+      link: https://access.redhat.com/products/red-hat-build-of-keycloak
 
   Key Management:
     aws:
       name: AWS Key Management Service (KMS)
       link: https://aws.amazon.com/kms/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Key Vault
+      link: https://azure.microsoft.com/en-us/products/key-vault/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud KMS
+      link: https://cloud.google.com/kms
     alibaba:
-      name: WIP
-      link: WIP
+      name: Key Management Service (KMS)
+      link: https://www.alibabacloud.com/en/product/kms
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Vault
+      link: https://www.oracle.com/security/cloud-security/key-management/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Key Protect
+      link: https://www.ibm.com/cloud/key-protect
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Key Management Service (KMS)
+      link: https://www.tencentcloud.com/products/kms
     huawei:
-      name: WIP
-      link: WIP
+      name: Key Management Service (KMS)
+      link: https://support.huawei.com/enterprise/en/doc/EDOC1100268100/bc813b05/what-is-key-management-service#EN-US_TOPIC_0000001211132252
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Secrets Management:
     aws:
       name: AWS Secrets Manager
       link: https://aws.amazon.com/secrets-manager/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Key Vault
+      link: https://azure.microsoft.com/en-us/products/key-vault/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Secret Manager
+      link: https://cloud.google.com/secret-manager
     alibaba:
-      name: WIP
-      link: WIP
+      name: Key Management Service (KMS)
+      link: https://www.alibabacloud.com/en/product/kms
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Vault
+      link: https://www.oracle.com/security/cloud-security/key-management/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Secrets Manager
+      link: https://www.ibm.com/cloud/secrets-manager
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Secrets Manager (SSM)
+      link: https://www.tencentcloud.com/products/ssm
     huawei:
-      name: WIP
-      link: WIP
+      name: Data Encryption Workshop (DEW)
+      link: https://www.huaweicloud.com/intl/en-us/product/dew.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   DDoS Protection:
     aws:
       name: AWS Shield
       link: https://aws.amazon.com/shield/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure DDoS Protection
+      link: https://azure.microsoft.com/en-us/products/ddos-protection/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Armor
+      link: https://cloud.google.com/armor
     alibaba:
-      name: WIP
-      link: WIP
+      name: Anti-DDoS
+      link: https://www.alibabacloud.com/en/product/ddos
     oci:
-      name: WIP
-      link: WIP
+      name: OCI DDoS Protection
+      link: https://www.oracle.com/security/cloud-security/web-application-firewall/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Internet Services
+      link: https://www.ibm.com/cloud/cloud-internet-services
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Anti-DDoS
+      link: https://www.tencentcloud.com/products/ddos
     huawei:
-      name: WIP
-      link: WIP
+      name: Advanced Anti-DDoS (AAD)
+      link: https://www.huaweicloud.com/intl/en-us/product/aad.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Web Application Firewall:
     aws:
       name: AWS WAF
       link: https://aws.amazon.com/waf/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Web Application Firewall
+      link: https://azure.microsoft.com/en-us/products/web-application-firewall/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Armor
+      link: https://cloud.google.com/armor
     alibaba:
-      name: WIP
-      link: WIP
+      name: Web Application Firewall (WAF)
+      link: https://www.alibabacloud.com/en/product/waf
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Web Application Firewall
+      link: https://www.oracle.com/security/cloud-security/web-application-firewall/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Internet Services
+      link: https://www.ibm.com/cloud/cloud-internet-services
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Web Application Firewall (WAF)
+      link: https://www.tencentcloud.com/products/waf
     huawei:
-      name: WIP
-      link: WIP
+      name: Web Application Firewall (WAF)
+      link: https://www.huaweicloud.com/intl/en-us/product/waf.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   # ── DEVOPS & MANAGEMENT ───────────────────────────────────────────────────
 
@@ -1823,175 +1823,175 @@ Cloud Service:
       name: Amazon CloudWatch
       link: https://aws.amazon.com/cloudwatch/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Monitor
+      link: https://azure.microsoft.com/en-us/products/monitor/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Monitoring
+      link: https://cloud.google.com/monitoring
     alibaba:
-      name: WIP
-      link: WIP
+      name: Cloud Monitor
+      link: https://www.alibabacloud.com/en/product/cloud-monitor
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Monitoring
+      link: https://www.oracle.com/manageability/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Monitoring
+      link: https://www.ibm.com/cloud/cloud-monitoring
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce Event Monitoring
+      link: https://trailhead.salesforce.com/content/learn/modules/event_monitoring
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Monitor
+      link: https://www.tencentcloud.com/document/product/1116/55074
     huawei:
-      name: WIP
-      link: WIP
+      name: Application Operations Management (AOM)
+      link: https://www.huaweicloud.com/intl/en-us/product/aom.html
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco AppDynamics
+      link: https://www.appdynamics.com/
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift Monitoring
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift
 
   Infrastructure as Code:
     aws:
       name: AWS CloudFormation
       link: https://aws.amazon.com/cloudformation/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Bicep
+      link: https://azure.microsoft.com/en-us/products/devops/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Deployment Manager
+      link: https://cloud.google.com/deployment-manager
     alibaba:
-      name: WIP
-      link: WIP
+      name: Resource Orchestration Service (ROS)
+      link: https://www.alibabacloud.com/en/product/ros
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Resource Manager
+      link: https://www.oracle.com/cloud/cloud-native/resource-manager/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Schematics
+      link: https://www.ibm.com/cloud/schematics
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TencentIaC
+      link: https://www.tencentcloud.com/document/product/598/57165
     huawei:
-      name: WIP
-      link: WIP
+      name: Application Orchestration Service (AOS)
+      link: https://www.huaweicloud.com/intl/en-us/product/aos.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat Ansible Automation Platform
+      link: https://www.redhat.com/en/technologies/management/ansible
 
   CI/CD Pipeline:
     aws:
       name: AWS CodePipeline
       link: https://aws.amazon.com/codepipeline/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure DevOps Pipelines
+      link: https://azure.microsoft.com/en-us/products/devops/pipelines/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Build
+      link: https://cloud.google.com/build
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud DevOps
+      link: https://www.alibabacloud.com/en/solutions/container/devops?_p_lc=1
     oci:
-      name: WIP
-      link: WIP
+      name: OCI DevOps
+      link: https://www.oracle.com/devops/devops-service/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Continuous Delivery
+      link: https://www.ibm.com/cloud/continuous-delivery
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce DevOps Center
+      link: https://developer.salesforce.com/developer-centers/devops
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Cloud CI/CD
+      link: https://www.tencentcloud.com/document/product/1174/74164
     huawei:
-      name: WIP
-      link: WIP
+      name: CodeArts
+      link: https://www.huaweicloud.com/intl/en-us/product/devcloud.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat OpenShift Pipelines
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift/pipelines
 
   Source Control:
     aws:
       name: AWS CodeCommit
       link: https://aws.amazon.com/codecommit/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure DevOps Repos
+      link: https://azure.microsoft.com/en-us/products/devops/repos/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Source Repositories
+      link: https://cloud.google.com/source-repositories
     alibaba:
-      name: WIP
-      link: WIP
+      name: Codeup
+      link: https://www.alibabacloud.com/help/en/yunxiao/user-guide/codeup-git-lfs-feature-introduction
     oci:
-      name: WIP
-      link: WIP
+      name: OCI DevOps (Code Repositories)
+      link: https://www.oracle.com/devops/devops-service/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud DevOps Toolchain
+      link: https://www.ibm.com/cloud/continuous-delivery
     salesforce:
-      name: WIP
-      link: WIP
+      name: Salesforce DevOps Center
+      link: https://developer.salesforce.com/developer-centers/devops
     tencent:
-      name: WIP
-      link: WIP
+      name: Code Repositories
+      link: https://www.tencentcloud.com/document/product/1274/72167
     huawei:
-      name: WIP
-      link: WIP
+      name: CodeArts Repo
+      link: https://www.huaweicloud.com/intl/en-us/product/devcloud.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Cost Management:
     aws:
       name: AWS Cost Explorer
       link: https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
     azure:
-      name: WIP
-      link: WIP
+      name: Microsoft Cost Management
+      link: https://azure.microsoft.com/en-us/products/cost-management/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Cost Management
+      link: https://cloud.google.com/cost-management
     alibaba:
-      name: WIP
-      link: WIP
+      name: Alibaba Cloud Cost Analysis
+      link: https://www.alibabacloud.com/help/en/user-center/cost-analysis-intl
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Cost Management
+      link: https://www.oracle.com/cloud/cost-management/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Cloud Cost Management Solutions
+      link: https://www.ibm.com/solutions/cloud-cost-management
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Tencent Cloud Billing
+      link: https://www.tencentcloud.com/document/product/555
     huawei:
-      name: WIP
-      link: WIP
+      name: Cost Center
+      link: https://support.huaweicloud.com/intl/en-us/cost/index.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat Cost Management
+      link: https://cloud.redhat.com/experts/misc/cost-management/
 
   # ── IoT ───────────────────────────────────────────────────────────────────
 
@@ -2003,105 +2003,105 @@ Cloud Service:
       name: AWS IoT Core
       link: https://aws.amazon.com/iot-core/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure IoT Hub
+      link: https://azure.microsoft.com/en-us/products/iot-hub/
     gcp:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     alibaba:
-      name: WIP
-      link: WIP
+      name: IoT Platform
+      link: https://www.alibabacloud.com/en/product/iot
     oci:
-      name: WIP
-      link: WIP
+      name: OCI IoT Intelligence
+      link: https://www.oracle.com/internet-of-things/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson IoT Platform
+      link: https://www.ibm.com/cloud/internet-of-things
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: IoT Hub
+      link: https://www.tencentcloud.com/products/iothub
     huawei:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco IoT
+      link: https://www.cisco.com/c/en/us/solutions/internet-of-things/overview.html
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   IoT Device Management:
     aws:
       name: AWS IoT Device Management
       link: https://aws.amazon.com/iot-device-management/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure IoT Hub Device Provisioning
+      link: https://azure.microsoft.com/en-us/products/iot-hub/
     gcp:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     alibaba:
-      name: WIP
-      link: WIP
+      name: Link IoT Edge
+      link: https://www.alibabacloud.com/en/product/linkiotedge
     oci:
-      name: WIP
-      link: WIP
+      name: OCI IoT Fleet Management
+      link: https://www.oracle.com/internet-of-things/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Watson IoT Platform
+      link: https://www.ibm.com/cloud/internet-of-things
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: IoT Hub
+      link: https://www.tencentcloud.com/products/iothub
     huawei:
-      name: WIP
-      link: WIP
+      name: IoT Device Management
+      link: https://www.huaweicloud.com/intl/en-us/product/iot.html
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco IoT Operations Dashboard
+      link: https://www.cisco.com/c/en/us/solutions/internet-of-things/overview.html
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Edge Computing:
     aws:
       name: AWS Outposts
       link: https://aws.amazon.com/outposts/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure IoT Edge
+      link: https://azure.microsoft.com/en-us/products/iot-edge/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Distributed Cloud
+      link: https://cloud.google.com/distributed-cloud
     alibaba:
-      name: WIP
-      link: WIP
+      name: Edge Node Service (ENS)
+      link: https://www.alibabacloud.com/en/product/edge-node-service
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Roving Edge
+      link: https://www.oracle.com/cloud/roving-edge-infrastructure/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Edge Application Manager
+      link: https://www.ibm.com/docs/en/eam/4.5.x?topic=overview-ieam
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Edge Computing Machine (ECM)
+      link: https://www.tencentcloud.com/products/ecm
     huawei:
-      name: WIP
-      link: WIP
+      name: Intelligent EdgeCloud (IEC)
+      link: https://www.huaweicloud.com/intl/en-us/product/iec.html
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco Edge Intelligence
+      link: https://www.cisco.com/c/en/us/products/cloud-systems-management/edge-intelligence/index.html
     redhat:
-      name: WIP
-      link: WIP
+      name: Red Hat Device Edge
+      link: https://www.redhat.com/en/technologies/cloud-computing/openshift/edge
 
   # ── OTHER SERVICES ────────────────────────────────────────────────────────
 
@@ -2113,102 +2113,102 @@ Cloud Service:
       name: Amazon WorkSpaces
       link: https://aws.amazon.com/workspaces/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Virtual Desktop
+      link: https://azure.microsoft.com/en-us/products/virtual-desktop/
     gcp:
-      name: WIP
-      link: WIP
+      name: Google Cloud Workstations
+      link: https://cloud.google.com/workstations
     alibaba:
-      name: WIP
-      link: WIP
+      name: Elastic Desktop Service
+      link: https://www.alibabacloud.com/en/product/cloud-desktop
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Virtual Desktop Infrastructure
+      link: https://www.oracle.com/cloud/compute/virtual-desktop/
     ibm:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: Cloud Virtual Desktop (CVD)
+      link: https://www.tencentcloud.com/products/cvd
     huawei:
-      name: WIP
-      link: WIP
+      name: Workspace
+      link: https://www.huaweicloud.com/intl/en-us/product/workspace.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Email Service:
     aws:
       name: Amazon Simple Email Service (SES)
       link: https://aws.amazon.com/ses/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Communication Services
+      link: https://azure.microsoft.com/en-us/products/communication-services/
     gcp:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     alibaba:
-      name: WIP
-      link: WIP
+      name: Direct Mail
+      link: https://www.alibabacloud.com/en/product/directmail
     oci:
-      name: WIP
-      link: WIP
+      name: OCI Email Delivery
+      link: https://www.oracle.com/application-development/email-delivery/
     ibm:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     salesforce:
-      name: WIP
-      link: WIP
+      name: Marketing Cloud Email Studio
+      link: https://www.salesforce.com/products/marketing-cloud/email-marketing/
     tencent:
-      name: WIP
-      link: WIP
+      name: Simple Email Service (SES)
+      link: https://www.tencentcloud.com/products/ses
     huawei:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     cisco:
-      name: WIP
-      link: WIP
+      name: Cisco Secure Email
+      link: https://www.cisco.com/c/en/us/products/security/email-security/index.html
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
 
   Managed Blockchain:
     aws:
       name: Amazon Managed Blockchain
       link: https://aws.amazon.com/managed-blockchain/
     azure:
-      name: WIP
-      link: WIP
+      name: Azure Confidential Ledger
+      link: https://azure.microsoft.com/en-us/products/azure-confidential-ledger/
     gcp:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     alibaba:
-      name: WIP
-      link: WIP
+      name: Blockchain as a Service (BaaS)
+      link: https://www.alibabacloud.com/en/product/baas
     oci:
-      name: WIP
-      link: WIP
+      name: Oracle Blockchain Platform
+      link: https://www.oracle.com/blockchain/
     ibm:
-      name: WIP
-      link: WIP
+      name: IBM Blockchain Platform
+      link: https://www.ibm.com/mysupport/s/topic/0TO0z000000YqidGAC/blockchain-platform?language=en_US
     salesforce:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     tencent:
-      name: WIP
-      link: WIP
+      name: TBaaS
+      link: https://www.tencentcloud.com/products/tbaas
     huawei:
-      name: WIP
-      link: WIP
+      name: Blockchain Service (BCS)
+      link: https://www.huaweicloud.com/intl/en-us/product/bcs.html
     cisco:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
     redhat:
-      name: WIP
-      link: WIP
+      name: ""
+      link: ""
