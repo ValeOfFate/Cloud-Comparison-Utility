@@ -42,32 +42,26 @@ async function buildTable() {
             const td = document.createElement('td');
             const service = providers[cspKey];
 
-            // TODO: Delete this entire block once this information is filled in
-            // Automatically make the content "WIP" if it does not exist
             if (service && service.services) {
                 // Multi-service entry: render each as its own line
-                const realServices = service.services.filter(s => s.name && s.name !== 'WIP');
-                if (realServices.length > 0) {
-                    realServices.forEach((s, i) => {
-                        if (s.link && s.link !== 'WIP') {
-                            const a = document.createElement('a');
-                            a.href = s.link;
-                            a.textContent = s.name;
-                            a.target = '_blank';
-                            td.appendChild(a);
-                        } else {
-                            td.appendChild(document.createTextNode(s.name));
-                        }
-                        if (i < realServices.length - 1) {
-                            td.appendChild(document.createElement('br'));
-                        }
-                    });
-                } else {
-                    td.textContent = 'WIP';
-                }
-            } else if (service && service.name && service.name !== 'WIP') {
+                const realServices = service.services.filter(s => s.name);
+                realServices.forEach((s, i) => {
+                    if (s.link) {
+                        const a = document.createElement('a');
+                        a.href = s.link;
+                        a.textContent = s.name;
+                        a.target = '_blank';
+                        td.appendChild(a);
+                    } else {
+                        td.appendChild(document.createTextNode(s.name));
+                    }
+                    if (i < realServices.length - 1) {
+                        td.appendChild(document.createElement('br'));
+                    }
+                });
+            } else if (service && service.name) {
                 // Single-service entry
-                if (service.link && service.link !== 'WIP') {
+                if (service.link) {
                     const a = document.createElement('a');
                     a.href = service.link;
                     a.textContent = service.name;
@@ -76,8 +70,6 @@ async function buildTable() {
                 } else {
                     td.textContent = service.name;
                 }
-            } else {
-                td.textContent = 'WIP';
             }
 
             tr.appendChild(td);
